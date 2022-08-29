@@ -1,0 +1,7 @@
+div{
+    border: 2px solid red;
+    height: 96vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
